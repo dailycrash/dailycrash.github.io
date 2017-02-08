@@ -415,6 +415,9 @@ h6,
 #msg-box8-2 p {
   color: #fff;
 }
+#msg-box8-2 .mbr-section-title {
+  font-size: 46px;
+}
 #social-buttons3-b .mbr-section-title,
 #social-buttons3-b .btn-social {
   color: #fff;
