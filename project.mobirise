@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -165,7 +165,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-2000x1250.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#ffb3b3",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -459,7 +459,9 @@
             "video": {
               "active": true,
               "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://vimeo.com/203204826",
+              "autoplay": "on",
+              "loop": "on"
             }
           },
           "text": "Create awesome mobile-friendly websites. No coding and free."
