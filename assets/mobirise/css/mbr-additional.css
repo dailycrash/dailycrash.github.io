@@ -418,8 +418,8 @@ h6,
   color: #fff;
 }
 #msg-box8-2 .mbr-section-title {
-  font-size: 25px;
-  color: #faaf40;
+  font-size: 60px;
+  color: #ffffff;
   text-align: center;
 }
 #msg-box8-2 .lead P {
@@ -430,9 +430,13 @@ h6,
 #msg-box8-2 .lead UL {
   text-align: right;
 }
-#social-buttons3-b .mbr-section-title,
-#social-buttons3-b .btn-social {
-  color: #fff;
+#msg-box3-1e .mbr-section-title,
+#msg-box3-1e p {
+  color: #000;
+}
+#header3-10 .mbr-section-title,
+#header3-10 .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-g .mbr-section-title,
 #header3-g .mbr-section-subtitle {
