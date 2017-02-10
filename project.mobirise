@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -183,13 +183,13 @@
           },
           "media1": {
             "image": {
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ular-600x343.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "page1.html",
-              "alt": "",
-              "title": "",
+              "alt": "Ular terjebak di dalam kulit nya sendiri!",
+              "title": "Ular terjebak di dalam kulit nya sendiri!",
               "linkInNewWindow": false
             }
           },
