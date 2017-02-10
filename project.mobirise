@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -193,9 +193,9 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Judul",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Deskripsi disini",
+          "title1": "Ular terjebak didalam kulit nya sendiri!",
+          "subtitle1": "By dailycrash.github.io posted february 10, 2017",
+          "caption1": "Lihatlah upaya saat mencoba dalam melarikan diri dari kulit nya sendiri!",
           "button1": "<a data-app-btn=\"true\" href=\"page1.html\" class=\"btn btn-warning\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
